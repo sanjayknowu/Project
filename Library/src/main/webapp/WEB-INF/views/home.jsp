@@ -16,7 +16,9 @@
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
+<<<<<<< HEAD
       <a class="navbar-brand" href="#">TECHCHEFS</a>
+=======
     </div>
     <ul class="nav navbar-nav">
       <li class="active"><a href="/Library/">Home</a></li>
